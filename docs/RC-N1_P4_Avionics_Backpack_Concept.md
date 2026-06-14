@@ -40,5 +40,5 @@ Drone Libre RC-N1 Avionics Backpack
 
 ## Related Projects
 - Drone Libre
-- Odin's Spear (formerly P1 clone VTOL)
+- Gungnir-Class VTOL (Codename: Odin's Spear)
 - P4 Handheld
